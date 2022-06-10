@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# MiddleEats
+
+## About
+MiddleEats is a tribute to the middle eastern cuisine. Here, I explored my React skills learned so far, by building a single page application which includes, a home, a recipes and a settings page. In the settings page, you can change fonts, themes and animation speed for better accessibility. 
+
+Technologies used:
+-HTML
+-React
+-SASS
+-Github
+-Netlify
+
+Hosted with Netlify: 
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
