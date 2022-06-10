@@ -4,13 +4,13 @@
 MiddleEats is a tribute to the middle eastern cuisine. Here, I explored my React skills learned so far, by building a single page application which includes, a home, a recipes and a settings page. In the settings page, you can change fonts, themes and animation speed for better accessibility. 
 
 Technologies used:
--HTML
--React
--SASS
--Github
+-HTML<br>
+-React<br>
+-SASS<br>
+-Github<br>
 -Netlify
 
-Hosted with Netlify: 
+Hosted with Netlify: https://middle-eats.netlify.app/
 
 
 
